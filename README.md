@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SnuSnu01
 - 👀 I’m interested in Computers in general, Gaming and Coding but im still a beginner lol :D
-- 🌱 I’m currently learning IT realted stuff in a school it´s like a traineeship but in school ^^
-- 💞️ I’m looking to collaborate on, actually I dont know but probably something related with Coding and Computer Hardware/Mircocontroller
+- 🌱 I learned some basic IT realted stuff in a school traineeship and also currently in a normal traineeship as a software developer
+- 💞️ I’m looking to collaborate on, actually I dont know but probably something related with Coding and Computer Hardware/Microcontroller
 - 📫 How to reach me, u can text me on Discord my Tag is SnuSnu#2130 or send an E-Mail to (did not make one yet LOL).
 
 <!---
